@@ -48,7 +48,7 @@ android {
         }
         debug {
             minifyEnabled false
-            applicationIdSuffix ".debug"
+            applicationIdSuffix ".debug2"
             debuggable true
             resValue "bool", "debug", "true"
         }
